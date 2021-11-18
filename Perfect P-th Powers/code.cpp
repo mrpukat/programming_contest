@@ -1,7 +1,6 @@
 #include <bitset>
 #include <vector>
 #include <iostream>
-#include <fstream>
 using namespace std;
 
 int PRIMESELING = 10000001;
